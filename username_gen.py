@@ -11,7 +11,6 @@ def usage():
     print("Usage: python3 username_gen.py -n \"FULL NAME\"")
     print()
     print("Examples:")
-    print("  python3 username_gen.py -n \"Mouad Ex1\"")
     print("  python3 username_gen.py -n \"Mark Zuckerberg\"")
     sys.exit(0)
 
