@@ -11,5 +11,4 @@ Usage
 Usage: python3 username_gen.py -n "FULL NAME"
 
 Examples:
-  python3 username_gen.py -n "Mouad Ex1"
   python3 username_gen.py -n "Mark Zuckerberg"
